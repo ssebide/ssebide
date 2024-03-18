@@ -1,8 +1,7 @@
-[![MasterHead](https://images.pexels.com/photos/247791/pexels-photo-247791.png?auto=compress&cs=tinysrgb&w=600)
+
 
 <h1 align="center">Hi 👋, I'm Johnson Ssebide</h1>
 <h3 align="center">A passionate Software Engineer from Uganda.</h3>
-<img alt="coding"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ssjpTj_PtGoApUATjC0E8IyDjnJrOu1qvQ&usqp=CAU" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssebide&label=Profile%20views&color=0e75b6&style=flat" alt="ssebide" /> </p>
 
 <p align="left"> <a href="https://twitter.com/johnson_ssebide" target="blank"><img src="https://img.shields.io/twitter/follow/johnson_ssebide?logo=twitter&style=for-the-badge" alt="johnson_ssebide" /></a> </p>
