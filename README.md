@@ -84,7 +84,7 @@
 
 ###
 
-<p align="left">Let's connect on Social Media.</p>
+<h2 align="left">Let's connect on Social Media.</h2>
 
 ###
 
@@ -93,12 +93,13 @@
 <a href="https://twitter.com/johnson_ssebide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnson_ssebide" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/johnson ssebide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnson ssebide" height="30" width="40" /></a>
 <a href="https://instagram.com/johnsonssebide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johnsonssebide" height="30" width="40" /></a>
+<a href="https://t.me/ssebide" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="30" height="30" alt="telegram logo"  /></a>
 </p>
 </div>
 
 ###
 
-<p align="left">Statistics</p>
+<h2 align="left">Statistics</h2>
 
 ###
 
