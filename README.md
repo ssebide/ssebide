@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Technology enthusiast.<br>📚 I'm currently learning Blockchain Development.<br>🎯 Solve problems through Technology.</p>
+<p align="left">✨ Technology enthusiast.<br>📚 My interest is in the development of bionic systems.<br>🎯 Solve problems through Technology.</p>
 
 ###
 
@@ -71,7 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" height="40" alt="springboot logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
