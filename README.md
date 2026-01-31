@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is SSEBIDE JOHNSON and I'm a passionate Software Engineer, from Uganda.</p>
+<p align="left">My name is SSEBIDE JOHNSON and I'm a passionate Computer Scientist, from Uganda.</p>
 
 ###
 
