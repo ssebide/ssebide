@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Technology enthusiast.<br>📚 My interest is in the development of bionic systems.<br>🎯 Solve problems through Technology.</p>
+<p align="left">With a background in orthopedic technology, I am deeply drawn to the frontier where biology meets machine learning and bionic systems programming. I live for elegant system design, resilient architecture, proper abstraction, software internals and efficient systems modelling. On a continuous journey of manifesting answers, I am a persistent and consistent student of the art of problem solving. I hack Rust, Python and Typescript. I also have experience with C, C++, Java, Javascript, Solidity, Go.</p>
 
 ###
 
@@ -74,10 +74,10 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ssebide&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> -->
 
 
-[![GitHub Streak](https://ssebide-readme-stats.vercel.app/&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://ssebide-readme-stats.vercel.app//?user=ssebide&theme=dark&hide_border=true)
 ![Top Langs](https://ssebide-readme-stats.vercel.app///api/top-langs/?username=ssebide&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssebide&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
 </div>
 
 ###
