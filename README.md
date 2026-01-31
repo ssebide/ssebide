@@ -61,9 +61,6 @@
 <a href="https://www.linkedin.com/in/johnson-ssebide-84b1b4222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnson ssebide" height="30" width="40" /></a>
 <a href="https://instagram.com/johnsonssebide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johnsonssebide" height="30" width="40" /></a>
 <a href="https://t.me/ssebide" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="30" height="30" alt="telegram logo"  /></a>
-    <a href="https://your-portfolio-website.com" target="_blank">
-  <img align="center" src="https://johnsonssebide.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/www.svg" alt="portfolio" height="30" width="40" />
-</a>
 </p>
 </div>
 
@@ -77,8 +74,8 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ssebide&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> -->
 
 
-[![GitHub Streak](ssebide-readme-stats-uysa4j5bl-ssebide.vercel.app&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://ssebide-readme-stats.vercel.app//api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=8)
+[![GitHub Streak](https://ssebide-readme-stats.vercel.app/&theme=dark)](https://git.io/streak-stats)
+![Top Langs](https://ssebide-readme-stats.vercel.app///api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssebide&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
