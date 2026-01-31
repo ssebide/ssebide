@@ -74,7 +74,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ssebide&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> -->
 
 
-![GitHub Streak](https://ssebide-readme-stats-git-main-ssebide.vercel.app///?user=ssebide&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-sable-two.vercel.app////?user=ssebide&theme=dark&hide_border=true)
 ![Top Langs](https://ssebide-readme-stats.vercel.app///api/top-langs/?username=ssebide&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 
