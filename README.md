@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/leanprover/lean4/master/doc/images/lean.svg" height="40" alt="lean logo" />
+  <img src="https://lean-lang.org/static/png/lean-logo-official-TM-transparent-2400x900.png" height="40" alt="lean logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo" />
 </div>
