@@ -1,0 +1,29 @@
+name: Generate Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Graph
+        uses: Ashutosh00710/github-readme-activity-graph@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: ssebide
+          theme: dracula
+          area: true
+          hide_border: true
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Update contribution graph" || exit 0
+          git push
