@@ -90,9 +90,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ssebide&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ###
