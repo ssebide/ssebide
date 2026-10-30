@@ -86,7 +86,7 @@
 <br/>
 
 <div align="center">
-  <img src="./profile-activity-graph.svg" alt="Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/ssebide" alt="Contribution Graph" width="100%" />
 </div>
 
 <br/>
