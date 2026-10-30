@@ -76,6 +76,28 @@
 
 <h2 align="left">Statistics</h2>
 
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ssebide&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats graph" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssebide&theme=dracula&hide_border=true" height="165" alt="streak graph" />
+</div>
+
+<br/>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssebide&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+<br/>
+
+<!-- Top Languages (your current one) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssebide&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
+</div>
+
 ###
 
 <div align="left">
