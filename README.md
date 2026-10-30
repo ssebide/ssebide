@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is SSEBIDE JOHNSON and I'm a passionate Computer Scientist, from Uganda.</p>
+<p align="left">Bringing computational applied mathematics to impactful problem solving. Building proven systems and frameworks that advance science.</p>
 
 ###
 
@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lean/lean-original.svg" height="40" alt="lean logo" />
+  <img src="https://lean-lang.org/img/lean.svg" height="40" alt="lean logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo" />
 </div>
