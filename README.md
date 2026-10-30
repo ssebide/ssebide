@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">With a background in orthopedic technology, I am deeply drawn to the frontier where biology meets machine learning and bionic systems programming. I live for elegant system design, resilient architecture, proper abstraction, software internals and efficient systems modelling. On a continuous journey of manifesting answers, I am a persistent and consistent student of the art of problem solving. I hack Rust, Python and Typescript. I also have experience with C, C++, Java, Javascript, Solidity, Go.</p>
+<p align="left">My research focuses on the intersection of Scientific Machine Learning, theoretical computer science, and applied mathematics with orthopedic technology, quantitative finance, and cryptographic security. By integrating data-driven models with rigorous mathematical foundations, the work develops accurate, efficient, and robust computational frameworks for complex systems, ranging from biomechanical modeling and patient-specific implant design, to high-dimensional risk modeling and portfolio optimization, to the analysis and fortification of cryptographic primitives and protocols under uncertainty., I am a persistent and consistent student of the art of problem solving. I hack Rust, Python, C, C++, Typescript, Julia, Lean4, Assembly, Go.</p>
 
 ###
 
@@ -46,11 +46,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lean/lean-original.svg" height="40" alt="lean logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo" />
 </div>
 
 ###
